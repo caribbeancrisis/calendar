@@ -8,15 +8,14 @@ permalink:        pretty
 # Setup
 title:            Caribbean Crisis NYC
 tagline:          'A Jekyll theme'
-description:      'A one-month jornada of discussions about Puerto Rico and the Caribbean as the region faces odious debt, unnatural disasters, and forced migration.'
-url:              http://caribbeancrisis.github.io
+description:      'A one-month jornada of independent discussions & workshops about Puerto Rico and the Caribbean as the region faces odious debt, unnatural disasters, and forced migration.'
+url:              "http://caribbeancrisis.github.io"
 baseurl:          ''
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Alex Gil'
+  url:            https://www.elotroalex.com
 
-paginate:         5
 
 # Custom vars
 version:          2.1.0
