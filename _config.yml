@@ -10,7 +10,7 @@ title:            Caribbean Crisis NYC
 tagline:          'A Jekyll theme'
 description:      'A one-month jornada of independent discussions & workshops about Puerto Rico and the Caribbean as the region faces odious debt, unnatural disasters, and forced migration.'
 url:              "http://caribbeancrisis.github.io"
-baseurl:          '/calendario-draft/'
+baseurl:          '/calendario-draft'
 
 author:
   name:           'Alex Gil'
