@@ -5,9 +5,9 @@ markdown:         kramdown
 permalink:        pretty
 
 # Setup
-title:            "Caribbean Crisis NYC/NJ"
+title:            "Caribbean Crisis"
 tagline:          'A Jekyll theme'
-description:      'A one-month jornada of independent discussions & workshops about Puerto Rico and the Caribbean as the region faces odious debt, unnatural disasters, and forced migration.'
+description:      'A one-month jornada of independent discussions & workshops in NYC & New Jersey about Puerto Rico and the Caribbean as the region faces odious debt, unnatural disasters, and forced migration.'
 url:              "http://caribbeancrisis.github.io"
 baseurl:          ''
 
